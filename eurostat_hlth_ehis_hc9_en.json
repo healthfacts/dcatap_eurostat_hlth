@@ -1,0 +1,32 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "5a2cfd85d205770b8b4c26f1d07805a1",
+    "title": "Self-reported use of prescribed medicines by sex, age and educational attainment level",
+    "description": "Statistics on healthcare non-expenditure provide information on healthcare human resources, healthcare facilities, and healthcare utilisation. The people active in the healthcare sector (doctors, dentists, nurses, etc.) and their status (graduates, practising, migration of doctors and nurses, etc.); The available healthcare technical resources and facilities (hospital beds, beds in residential care facilities, medical technology, etc.); The health activities or patient contacts undertaken (hospital discharges, surgical procedures, ambulatory care data, etc.). Annual national and regional data are provided in absolute numbers or as a rate of a relevant population. Data are based mainly on administrative records (see section 18.1 ‘Source data’ for more information).",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_hc9_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_hc9_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 100432,
+    "modificationDate": "2023-11-13 08:50:08",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20care; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_expenditure_statistics_-_methodology; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_non-expenditure_statistics_-_methodology",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health care",
+        " Medicine use"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "b7a5e4b1-664d-4c2b-8aeb-e530bef46eff",
+        "title": "Medicine use",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}
