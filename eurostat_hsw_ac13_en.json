@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "9cdc5f9830db94dcd54ad24899da4be6",
+    "title": "Persons reporting an accident at work resulting in time off work by sex and country of birth",
+    "description": "Harmonised data on accidents at work are collected in the framework of the administrative data collection 'European Statistics on Accidents at Work (ESAW)', on the basis of a methodology developed first in 1990. European Statistics on Accidents at Work (ESAW) - Summary methodology - 2013 edition is the last version available. An accident at work is defined as 'a discrete occurrence in the course of work which leads to physical or mental harm'. If the accident does not lead to the death of the victim it is called a 'non-fatal' (or 'serious') accident. The data include only fatal and non-fatal accidents involving more than 3 calendar days of absence from work. A fatal accident at work is defined as an accident, which leads to the death of a victim within one year of the accident. The variables collected on accidents at work include: Economic activity of the employer and size of the enterprise; Employment status, occupation, age, sex and nationality of victim; Geographical location, date and time of the accident; Type of injury, body part injured and the severity of the accident (number of full calendar days during which the victim is unfit for work excluding the day of the accident, permanent incapacity or death within one year of the accident); Variables on causes and circumstances of the accident: workstation, working environment, working process, specific physical activity, material agent of the specific physical activity, deviation and material agent of deviation, contact - mode of injury and material agent of contact - mode of injury (mandatory 3 out of 9). The national ESAW sources are the declarations of accidents at work, either to the accident insurance of the national social security system, a private insurance for accidents at work or to other relevant national authorities (labour inspection, health and safety authority, etc.). As an exception, when data from administrative sources are not available, survey data might be used to fill-in the data gaps.",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hsw_ac13_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hsw_ac13_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 275738,
+    "modificationDate": "2023-11-13 08:50:18",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20and%20safety%20at%20work",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health and safety at work",
+        " Accidents at work and other work-related health problems",
+        " Labour Force Survey"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "6a6bcb32-f2a1-4cd0-84ec-9f9c624d7839",
+        "title": "Accidents at work and other work-related health problems (source LFS)",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

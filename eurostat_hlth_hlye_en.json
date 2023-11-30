@@ -1,0 +1,32 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "6c6658585a7b0ce509671b4bc5c9b2da",
+    "title": "Healthy life years by sex (from 2004 onwards)",
+    "description": "The indicator of healthy life years measures the number of remaining years that a person of specific age (at birth and at 65) is expected to live without any severe or moderate health problems. The indicator is also called disability-free life expectancy (DFLE). It is a composite indicator that combines mortality data with data referring to a health indicator, such as disability. Healthy life years also monitor health as a productive or economic factor. An increase in healthy life years is one of the main goals for European health policy. And it would not only improve the situation of individuals but also it would result in lower levels of public healthcare expenditure. If healthy life years are increasing more rapidly than life expectancy, it means that people are living longer and free from health problems.",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_hlye_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_hlye_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 908170,
+    "modificationDate": "2023-11-13 08:50:11",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20status%20and%20health%20determinants",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health status",
+        " Healthy life years"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "6b142d67-5f53-4775-8ad7-e12acd7bea85",
+        "title": "Healthy life years",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

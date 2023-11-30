@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "61b8c2bae7119bf78d9094b03ac46d14",
+    "title": "Expenditure for selected health care providers by health care financing schemes",
+    "description": "Health care expenditure quantifies the economic resources dedicated to health functions, excluding capital investment. Healthcare expenditure concerns itself primarily with healthcare goods and services that are consumed by resident units, irrespective of where that consumption takes place (it may be in the rest of the world) or who is paying for it. As such, exports of healthcare goods and services (to non-resident units) are excluded, whereas imports of healthcare goods and services for final use are included. Health care expenditure data provide information on expenditure in the functionally defined area of health distinct by provider category (e.g. hospitals, general practitioners), function category (e.g. services of curative care, rehabilitative care, clinical laboratory, patient transport, prescribed medicines) and financing scheme (e.g. social security, private insurance company, household). These categories form the 3 core classifications of the System of Health Accounts. The complementary classification for the revenues of the health care financing schemes is also disseminated by Eurostat.",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_sha11_hphf_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_sha11_hphf_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 23169882,
+    "modificationDate": "2023-11-13 08:50:12",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20care; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_expenditure_statistics_-_methodology; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_non-expenditure_statistics_-_methodology",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health care",
+        " Health care expenditure",
+        " System of Health Accounts"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "56c0ae33-96dd-4b9b-ade9-7b1c29a61952",
+        "title": "Health care expenditure (SHA 2011)",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}
