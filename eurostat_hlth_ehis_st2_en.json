@@ -1,0 +1,32 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "7d376225d0a7113bcd3032ec8a93bb1b",
+    "title": "People reporting having had an accident by sex, age and educational attainment level (%)",
+    "description": "The European Health Interview Survey (EHIS) aims at measuring on a harmonised basis and with a high degree of comparability among Member States (MS) the health status (including disability), health determinants (lifestyle) of the EU citizens and use of health care services and limitations in accessing it. The general coverage of the survey is the population aged 15 or over living in private households residing in the territory of the country. EHIS was developed between 2003 and 2006. It consists of four modules on health status, health determinants, health care, and background variables (socio-demographic characteristics of the population). Three waves of EHIS have currently been implemented. The first wave of EHIS (EHIS wave 1 or EHIS round 2008) was conducted between 2006 and 2009 in 17 EU Member States as well as Switzerland and Turkey. The second wave (EHIS wave 2 or EHIS round 2014) was conducted between 2013 and 2015 in all EU Member States, Iceland, Norway and Turkey according to the Commission Regulation 141/2013. The third wave of EHIS was conducted in 2019. All Member States participated in the EHIS wave 3 in accordance with the Commission Regulation (EU) No. 2018/255. A derogation regarding the data collection period was granted for some countries: the data collection period was 2018 for Belgium, 2018-2020 for Austria and Germany, and 2019-2020 for Malta. The questionnaire consists of the same four modules for all the EHIS waves and over the years, some changes to the questionnaire have been implemented to satisfy specific users’ needs. Also, countries are allowed to include additional questions in the specific submodules or even specific sub-modules in the survey if this does not have an impact on the results of the compulsory variable",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_st2_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_st2_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 181446,
+    "modificationDate": "2023-11-13 08:50:10",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20status%20and%20health%20determinants",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health status",
+        " Health status"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "a9c83fd1-f679-4089-8d95-15fb96919694",
+        "title": "Health status - historical data (2008)",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

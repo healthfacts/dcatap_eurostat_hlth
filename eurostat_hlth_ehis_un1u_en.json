@@ -1,0 +1,32 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "dfca5818ae8a18c7eac79fc9c98366f2",
+    "title": "Self-reported unmet needs for health care by sex, age, specific reasons and degree of urbanisation",
+    "description": "Statistics on healthcare non-expenditure provide information on healthcare human resources, healthcare facilities, and healthcare utilisation. The people active in the healthcare sector (doctors, dentists, nurses, etc.) and their status (graduates, practising, migration of doctors and nurses, etc.); The available healthcare technical resources and facilities (hospital beds, beds in residential care facilities, medical technology, etc.); The health activities or patient contacts undertaken (hospital discharges, surgical procedures, ambulatory care data, etc.). Annual national and regional data are provided in absolute numbers or as a rate of a relevant population. Data are based mainly on administrative records (see section 18.1 ‘Source data’ for more information).",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_un1u_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_ehis_un1u_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 3039685,
+    "modificationDate": "2023-11-13 08:50:10",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20care; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_expenditure_statistics_-_methodology; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_non-expenditure_statistics_-_methodology",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health care",
+        " Unmet needs for health care"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "ecc4e998-e9de-475d-a867-ac81d41f2fd0",
+        "title": "Unmet needs for health care",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}
