@@ -1,0 +1,32 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "c9d257565e331b0f027e5cca424e5525",
+    "title": "Hospital days of in-patients",
+    "description": "Statistics on healthcare non-expenditure provide information on healthcare human resources, healthcare facilities, and healthcare utilisation. The people active in the healthcare sector (doctors, dentists, nurses, etc.) and their status (graduates, practising, migration of doctors and nurses, etc.); The available healthcare technical resources and facilities (hospital beds, beds in residential care facilities, medical technology, etc.); The health activities or patient contacts undertaken (hospital discharges, surgical procedures, ambulatory care data, etc.). Annual national and regional data are provided in absolute numbers or as a rate of a relevant population. Data are based mainly on administrative records (see section 18.1 ‘Source data’ for more information).",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_co_hosday_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_co_hosday_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 474224955,
+    "modificationDate": "2023-11-14 14:34:13",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Health%20care; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_expenditure_statistics_-_methodology; https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Healthcare_non-expenditure_statistics_-_methodology",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Health care",
+        " Health care activities"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "1f70c2e9-4eb0-4f67-830d-a97fe532b172",
+        "title": "Health care activities",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

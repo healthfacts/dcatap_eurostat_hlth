@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "f94d649fdb8ffe3094b43f8911761b1d",
+    "title": "Causes of death - potential years of life lost by residence",
+    "description": "Data on causes of death (COD) provide information on mortality patterns and form a major element of public health information. The COD data refer to the underlying cause which - according to the World Health Organisation (WHO) - is \"the disease or injury which initiated the train of morbid events leading directly to death, or the circumstances of the accident or violence which produced the fatal injury\". The data are derived from the medical certificate of death, which is obligatory in the Member States. The information recorded in the death certificate is according to the rules specified by the WHO. Data published in Eurostat's dissemination database are broken down by sex, 5-year age groups, cause of death and by residency and country of occurrence. For stillbirths and neonatal deaths additional breakdowns might include age of mother and parity.  Data are available for Member States, Iceland, Norway, Liechtenstein, Switzerland, United Kingdom, Serbia, Turkey, North Macedonia and Albania. Regional data (NUTS level 2) are available for all of the countries having NUTS2 regions except Serbia and Albania.\n Annual national data are available in Eurostat's dissemination database in absolute number, crude death rates and standardised death rates. At regional level the same is provided in form of 3-years averages (the average of year, year -1 and year -2). Annual crude and standardised death rates are also available at NUTS2 level. Monthly national data are available for 21 EU Member States from reference year 2019 in absolute numbers and standardised death rates. It should also be noted that the data for France for the years 2018 and 2019 are preliminary; more information can be found in the Annex to the Metadata file of France (Report on provisional 2018 & 2019 CoD data partly predicted by deep learning).",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_cd_apyll_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_cd_apyll_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 68317,
+    "modificationDate": "2023-11-13 08:48:50",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/web/health/methodology#Causes%20of%20death",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Causes of death",
+        " CoD",
+        " General mortality"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "4f5c1dd0-a128-4296-9b93-a50a151977bc",
+        "title": "General mortality",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}
