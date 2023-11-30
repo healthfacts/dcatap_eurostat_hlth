@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "faac46db030e65922bc413b39173a5e7",
+    "title": "Population by sex, age, disability status and educational attainment level",
+    "description": "EHSIS was designed to measure the biopsychosocial model of disability introduced by the International Classification of Functioning, Disability and Health (ICF, World Health Organization, 2001). According to this model applied to the survey, disabled people are those who face barriers to participation associated, inter alia, with a health problem or basic activity limitation. Thus, the survey primarily explored the barriers to life opportunities faced by people with health problems and impairments. EHSIS questionnaire covered the following sections: The socio-economic background (classificatory questions), A health component (Minimum European Health Module and a list of groups of longstanding health conditions); list of different impairments (limitation in basic activities): seeing, hearing, walking, …; activities of daily living (ADL: self-care activities such as feeding oneself, dressing, bathing, …), and instrumental activities of daily living (IADL: domestic life activities, such as managing money, shopping, using the telephone, housekeeping), and Ten areas on important facets of life that enable an individual to be a fully functional and integrated member of society (identified as being of most relevant ones from ICF): mobility, transport, accessibility to buildings, education and training, employment, internet use, social contact and support, leisure pursuits, economic life, attitudes and behaviour. For each of these areas, disadvantages or restrictions to social participation that people (with and without a longstanding health problem or a basic activity difficulty) face in their everyday lives were investigated. Model questionnaire and other relevant documents are available on CIRCABC in European Health and Social Integration Survey (EHSIS). Information on the questionnaire development is available in the public part of the Circabc website: https://circabc.europa.eu/w/browse/8f8ab081-ca6a-4738-bf5a-d73e67f8e1f0",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dpeh020_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dpeh020_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 333202,
+    "modificationDate": "2023-11-13 08:50:05",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Disability_statistics#10._Methodological_annex",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Disability",
+        " Prevalence of disability",
+        " European Health Interview Survey"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "5c3a2836-3cf9-4bd8-a631-56f640ffcd4b",
+        "title": "Prevalence of disability (source EHSIS)",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

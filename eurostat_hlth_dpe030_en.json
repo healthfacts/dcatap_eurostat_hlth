@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "2c43785b09e293c1f101da8955eaca83",
+    "title": "People at risk of poverty before social transfers (pensions included in social transfers) by level of activity limitation, sex and age",
+    "description": "The European Statistics of Income and Living Condition (EU-SILC) survey contains a small module on health, composed of 3 variables on health status and 4 variables on unmet needs for health care. The variables on health status represent the so called Minimum European Health Module (MEHM), and measures 3 different concepts of health: Self-perceived health\nChronic morbidity (people having a long-standing illness or health problem) Activity limitation – disability (self-perceived long-standing limitations in usual activities due to health problems), The variables on unmet needs for health care targets two broad types of services: medical care and dental care. The variables refer to the respondent's own assessment of whether he or she needed the respective type of examination or treatment, but did not have it and if so what was the main reason of not having it, Eurostat currently disseminates the following indicators for unmet needs: Self-reported unmet needs for medical examination for reasons of barriers of access; Self-reported unmet needs for medical examination by reason; Self-reported unmet needs for dental examination by reason; All indicators are expressed as percentages within (or share of) the population and breakdowns are given by: sex, age, labour status, educational attainment level, and income quintile group. Data for individual countries are disseminated starting the fourth quarter of year N+1 (where N = year of data collection). EU aggregates and health indicators for all countries (provided that the data is available) for year N are usually published by the end of February N+2.",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dpe030_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dpe030_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 4738922,
+    "modificationDate": "2023-11-13 08:50:05",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Disability_statistics#10._Methodological_annex",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Disability",
+        " Income distribution and poverty among disabled people",
+        " European Union Statistics of Income and Living Conditions"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "7b15b64b-95ca-4284-9ff4-1761a8b00b1f",
+        "title": "Income distribution and poverty among disabled people - EU-SILC survey",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}

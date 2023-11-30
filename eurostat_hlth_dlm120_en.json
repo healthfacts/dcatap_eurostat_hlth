@@ -1,0 +1,33 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "1b5444b396f0c06fd1f2dbcd2b0949e7",
+    "title": "Employment by type of disability, sex, age and economic activity",
+    "description": "In 2011, the European Union Labour Force Survey (EU-LFS) included an ad hoc module (AHM) on employment of disabled people. The module consisted of 11 variables dealing with: Health problems and difficulties in basic activities; Limitations in work caused by health problems/difficulties in basic activities; Special assistance needed or used by people with health problems/difficulties in basic activities; Limitation in work because of other reasons. On the basis of how the module was operationalised, the following two main definitions for disability were considered for presenting the results: Disabled persons = People having a basic activity difficulty (such as seeing, hearing, walking, communicating); Disabled persons = People having a work limitation caused by a longstanding health condition and/or a basic activity difficulty. 32 countries have implemented this module in 2011: the EU Member States plus Turkey, Iceland, Norway and Switzerland. The Norwegian data are not disseminated because the AHM questionnaire in Norway only partly complies with the Commission Regulation (EU) No 317/2010 and consequently, the data are incomplete and partly comparable. Missing values, don't know and refusal answers are not considered in the calculations. It means the indicators have been worked out on the respondents and validated answers only.",
+    "publisher": "European Statistical Office",
+    "downloadURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dlm120_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_eurostat_hlth/blob/main/eurostat_hlth_dlm120_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 4565504,
+    "modificationDate": "2023-11-13 08:50:01",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Disability_statistics#10._Methodological_annex",
+    "keyword": [
+        "European Statistical Office",
+        " EUROSTAT",
+        " Disability",
+        " Access to labour market for disabled people",
+        " Labour Force Survey"
+    ],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "981d455a-25cf-4b1b-8abe-d499cfeb260b",
+        "title": "Access to labour market for disabled people (source LFS)",
+        "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
+        "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
+        "contactPointEmail": "not available"
+    }
+}
