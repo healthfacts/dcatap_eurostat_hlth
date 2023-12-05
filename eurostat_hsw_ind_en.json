@@ -9,7 +9,7 @@
     "mediaType": "text/csv",
     "format": "csv",
     "byteSize": 73028,
-    "modificationDate": "2023-11-13 08:50:19",
+    "modificationDate": "2023-11-12 05:39:39",
     "status": "completed",
     "language": "en",
     "availability": "stable",
@@ -24,8 +24,8 @@
     ],
     "dataset": {
         "@type": "dataset",
-        "identifier": "cf83babc-c553-4ab4-b7ff-f537a5903258",
-        "title": "Accidents at work (ESAW) - until 2007",
+        "identifier": "25587853-41c4-4fe6-a6ff-2f032d32dc38",
+        "title": "Accidents at work (ESAW, 2008 onwards)",
         "landingPage": "https://ec.europa.eu/eurostat/web/health/database",
         "contactPoint": "European Commission, Eurostat, Joseph Bech Building​​​​​​​ 5, rue Alphonse Weicker L-2721 Luxembourg, Luxembourg",
         "contactPointEmail": "not available"
